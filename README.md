@@ -1,10 +1,8 @@
-## Hi, I'm Tariq Saiyad <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px" alt="hi">
+## Hi, I'm Tariq Saiyad <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px" alt="hi"> 
 
-:india: -> :south_africa: -> :new_zealand:
+### :india: &#8594; :south_africa: &#8594; :new_zealand:
  
-I am a Software Engineering graduate from Victoria University of Wellington. With no university assignments, I aim to pump up my github contributions this summer.
-
- Currently, I am working on the **Outfitter** (wardrobe organisation app) using Flutter.
+I am a Software Engineering graduate from Victoria University of Wellington. Currently, I am working on **Outfitter** (wardrobe organisation app), built using Flutter.
 
 
 :mailbox: Feel free to reach out 
