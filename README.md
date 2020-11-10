@@ -4,14 +4,14 @@
  
 I am a Software Engineering graduate from Victoria University of Wellington. Currently, I am working on **Outfitter** (wardrobe organisation app), built using Flutter.
 
+#### :mailbox: Feel free to reach out 
 
-:mailbox: Feel free to reach out 
 
 [![Mail Badge](https://img.shields.io/badge/-tariqsaiyad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tariqsaiyad98@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Tariq-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/tariq-saiyad/)
 [![Mail Badge](https://img.shields.io/badge/-comingsoon-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white)](https://instagram.com/)
 
-#### :paperclip: [My CV](#)
+#### :paperclip: My CV is available [here](https://github.com/TariqSaiyad/TariqSaiyad/blob/master/resumes/Tariq%20Saiyad%20CV%20-%20v6.pdf)
 
 
 #### Some of the tech I've worked with 
