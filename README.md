@@ -1,6 +1,8 @@
 ## Hi, I'm Tariq Saiyad <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px" alt="hi">
 
-Fuelled by a passion for collaborative innovation, I am a seasoned software engineer who thrives on tackling challenges together with my team. I specialize in delivering scalable solutions that push boundaries. With a strong focus on full stack development, I lead by example, fostering growth and driving success every step of the way.
+Full-stack engineer and lead developer with a passion for building scalable solutions and empowering teams. I led the development of the Ministry of Education NZ flagship website using Next.js and Drupal, deployed on AWS. I focus on mentoring developers, upskilling teams in new tech like TypeScript, and improving development processes. 
+
+Currently, I am expanding my expertise in cloud engineering with a focus on mastering CDK and AWS technologies.
 
 #### :mailbox: Feel free to reach out
 
@@ -13,12 +15,13 @@ Fuelled by a passion for collaborative innovation, I am a seasoned software engi
 
 #### Some of the tech I've worked with
 
+[![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&labelColor=white&logo=amazonwebservices&logoColor=232F3E)](#)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&labelColor=white&logo=next.js&logoColor=black)](#)
 [![Drupal Badge](https://img.shields.io/badge/-Drupal-0678BE?style=for-the-badge&labelColor=black&logo=drupal&logoColor=0678BE)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&labelColor=white&logo=angular&logoColor=0F0F11)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Svelte Badge](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&labelColor=black&logo=svelte&logoColor=#FF3E00)](#)
 [![VueJs Badge](https://img.shields.io/badge/-VueJs-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-0d47a1?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)](#)
 
 <hr></hr>
