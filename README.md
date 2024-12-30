@@ -7,7 +7,7 @@ Currently, I am expanding my expertise in cloud engineering with a focus on mast
 #### :mailbox: Feel free to reach out
 
 [![Mail Badge](https://img.shields.io/badge/-tariqsaiyad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tariqsaiyad98@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Tariq-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/tariq-saiyad/)
+[![Linkedin Badge](https://img.shields.io/badge/-Tariq-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-saiyad/)
 
 #### :paperclip: My CV is available here
 
